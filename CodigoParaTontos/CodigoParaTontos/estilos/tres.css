@@ -1,0 +1,21 @@
+h1 {
+  background-color: green;
+}
+
+p {
+  background-color: red;
+}
+
+
+h1, p {
+  background-color: aquamarine;
+}
+
+/*Hola a todos*/
+
+.pClass {
+  background-color: rgb(130, 80, 200);
+}
+
+
+
